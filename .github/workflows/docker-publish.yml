@@ -25,7 +25,7 @@ env:
 jobs:
   build:
 
-    runs-on: ubuntu-latest
+    runs-on: nvidia/cuda:12.2.0-devel-ubuntu20.04
     permissions:
       contents: read
       packages: write
