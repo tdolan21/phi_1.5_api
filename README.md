@@ -1,10 +1,8 @@
 # Phi 1.5 API (Unoffical)
 
-![Docker Build Status](https://img.shields.io/docker/build/tdolan21/phi_1.5_api)
 ![GitHub last commit](https://img.shields.io/github/last-commit/tdolan21/phi_1.5_api)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1.9-orange)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.68-blue)
-![License](https://img.shields.io/github/license/mit)
 
 This API is implemented with FastAPI and PyTorch to allow an even lighter-weight usage of output from Microsoft's [phi-1.5](https://huggingface.co/microsoft/phi-1_5) model.
 
